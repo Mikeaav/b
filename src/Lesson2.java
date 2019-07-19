@@ -13,7 +13,7 @@ public class Lesson2
 
         result = Math.pow(base, power);
         System.out.println(result);
-
+        /*Lesson 2*/
         int a = 5;
         double b = 6.0;
         int product = a* (int)b;
